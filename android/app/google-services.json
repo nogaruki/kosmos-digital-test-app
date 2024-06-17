@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "513653676733",
+    "project_id": "kosmos-fd37a",
+    "storage_bucket": "kosmos-fd37a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513653676733:android:a44f1f2dc8f6c543ea75d4",
+        "android_client_info": {
+          "package_name": "fr.avramov.projet_kosmos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513653676733-7j9v64g3vsnjct7c459ckhv1hs4lhrc0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJnLQnoFN7Y5B9Vn0xHEoAW6oxt0WWA0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513653676733-7j9v64g3vsnjct7c459ckhv1hs4lhrc0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "513653676733-cj77pf4dub72om14lqaeup44d8l050gv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "fr.avramov.projetKosmos"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
